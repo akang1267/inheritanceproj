@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ClothingTester",
+            "request": "launch",
+            "mainClass": "ClothingTester",
+            "projectName": "Inheritance_Proj_78494662"
+        },
+        {
+            "args": [
+                "5",
+                "9",
+                "125",
+                "-64",
+                "78",
+                "-1",
+                "359"
+            ]
+        }
+    ]
+}
