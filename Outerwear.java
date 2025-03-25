@@ -24,6 +24,7 @@ public class Outerwear extends Clothing {
         this.hasZip = hasZip;
     }
 
+    @Override
     public String toString(){
         String str = "";
         String hood;

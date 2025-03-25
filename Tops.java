@@ -23,6 +23,7 @@ public class Tops extends Clothing {
         this.hasCollar = hasCollar;
     }
 
+    @Override
     public String toString(){
         String str = "";
         String sleeve;

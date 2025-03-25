@@ -25,6 +25,7 @@ public class Bottoms extends Clothing {
         this.hasPockets = hasPockets;
     }
 
+    @Override
     public String toString(){
         String str = "";
         String pocket;
